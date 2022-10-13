@@ -1,11 +1,6 @@
 # 2D-Game-Engine
 Development of a 2D game engine capable of generating unique 2D games through a Graphical User Interface.
 
-Resources:
-
-  - LWJGL (Lightweight Java Game Library)
-
-![super-mario-video-game](https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif)
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -33,14 +28,12 @@ Resources:
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
+![super-mario-video-game](https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif)
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+ ![super-mario-video-game](https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif)
 
   <h3 align="center">Best-README-Template</h3>
 
