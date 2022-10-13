@@ -33,7 +33,7 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
- ![super-mario-video-game](https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif)
+  <a href="https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif"></a>
 
   <h3 align="center">Best-README-Template</h3>
 
