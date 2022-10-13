@@ -4,6 +4,4 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 Resources:
 
   - LWJGL (Lightweight Java Game Library)
-
-https://user-images.githubusercontent.com/65887526/195720679-b9b96ddb-d899-473b-8135-bf01a59d3663.mov
-
+![Screen Recording 2022-10-13 at 3 24 15 PM](https://user-images.githubusercontent.com/65887526/195722891-a35e422b-03b5-45c6-a0fe-f9f87a133965.gif)
