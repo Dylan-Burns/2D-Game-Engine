@@ -19,8 +19,6 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield][www.linkedin.com/in/dylan-burns-]
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -185,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Dylan Burns - dylan.b1524@gmail.com
+Dylan Burns - dylan.b1524@gmail.com - www.linkedin.com/in/dylan-burns-
 
 Project Link: [https://github.com/Dylan-Burns/2D-Game-Engine][https://github.com/Dylan-Burns/2D-Game-Engine]
 
