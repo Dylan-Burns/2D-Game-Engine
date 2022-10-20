@@ -40,7 +40,6 @@ Development of a 2D game engine capable of generating unique 2D games through a 
     <li><a href="#usage">Usage</a></li>
     <li><a href="#run">Run</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
