@@ -87,10 +87,8 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <p align="center">
- ![super-mario-video-game](https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif)
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif">
 </p>
-
-
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
