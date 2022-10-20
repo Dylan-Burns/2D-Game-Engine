@@ -19,7 +19,7 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][www.linkedin.com/in/dylan-burns-]
+[![LinkedIn][linkedin-shield][www.linkedin.com/in/dylan-burns-]
 
 
 <!-- TABLE OF CONTENTS -->
