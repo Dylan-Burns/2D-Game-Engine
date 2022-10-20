@@ -183,9 +183,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Dylan Burns - dylan.b1524@gmail.com - www.linkedin.com/in/dylan-burns-
+Dylan Burns
 
-Project Link: https://github.com/Dylan-Burns/2D-Game-Engine
+* [Email](dylan.b1524@gmail.com)
+
+* [LinkedIn](www.linkedin.com/in/dylan-burns-)
+
+[Project Link](https://github.com/Dylan-Burns/2D-Game-Engine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
