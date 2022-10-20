@@ -66,8 +66,7 @@ The core functionality provided by this game engine includes a rendering engine 
 
 
 ### Built With
- * LWJGL
-LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan), audio (OpenAL)   and parallel computing (OpenCL) applications. This access is direct and high-performance, yet also wrapped in a type-safe and user-friendly layer, appropriate for the Java ecosystem. 
+ * LWJGL - is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan), audio (OpenAL)   and parallel computing (OpenCL) applications. This access is direct and high-performance, yet also wrapped in a type-safe and user-friendly layer, appropriate for the Java ecosystem. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
