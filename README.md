@@ -73,6 +73,9 @@ The core functionality provided by this game engine includes a rendering engine 
 
 
 <!-- GETTING STARTED -->
+
+
+<!--
 ## Getting Started
 
 ### Prerequisites
@@ -103,12 +106,13 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
+--!>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+After Downloading the repository and setting up the project configuration, you can construct a personalized game in your preferred IDE. Official Documentation is in progress and will hopefully be completed by end of this year (2022).
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -183,9 +187,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Dylan Burns - dylan.b1524@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/Dylan-Burns/2D-Game-Engine][https://github.com/Dylan-Burns/2D-Game-Engine]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
