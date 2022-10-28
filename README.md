@@ -16,10 +16,6 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 
 <!-- PROJECT SHIELDS -->
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![MIT License][license-shield]][license-url]
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
