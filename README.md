@@ -106,7 +106,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 After Downloading the repository and setting up the project configuration, you can construct a personalized game in your preferred IDE. Official Documentation is in progress and will hopefully be completed by end of this year (2022).
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
