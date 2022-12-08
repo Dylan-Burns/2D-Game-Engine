@@ -58,7 +58,7 @@ Implementation of the Classic Super Mario Bros using Java
 <img width="1267" alt="Screenshot 2022-12-08 at 2 02 03 PM" src="https://user-images.githubusercontent.com/65887526/206576705-723843ee-ac9f-461a-a7ca-861b087e3bae.png">
 
 
-The core functionality provided by this game engine includes a rendering engine for 2D graphics, a physics engine with collision detection (and collision response), sound, scripting, animation, multithreading, localization support, scene graph, and video support for cinematics. 
+This game was built using collision checks, sound, scripting, animation, multithreading, localization support, scene graph, and video support for cinematics. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
