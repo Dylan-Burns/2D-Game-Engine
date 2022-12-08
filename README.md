@@ -1,5 +1,5 @@
-# 2D-Game-Engine
-Development of a 2D game engine capable of generating unique 2D games through a Graphical User Interface.
+# Super Mario Bros
+Implementation of the Classic Super Mario Bros using Java
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -11,6 +11,9 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
+
+
+
 
 
 
@@ -46,9 +49,13 @@ Development of a 2D game engine capable of generating unique 2D games through a 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<!--
 <p align="center">
   <img width="800" height="600" src="https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif">
 </p>
+-->
+
+<img width="1267" alt="Screenshot 2022-12-08 at 2 02 03 PM" src="https://user-images.githubusercontent.com/65887526/206576705-723843ee-ac9f-461a-a7ca-861b087e3bae.png">
 
 
 The core functionality provided by this game engine includes a rendering engine for 2D graphics, a physics engine with collision detection (and collision response), sound, scripting, animation, multithreading, localization support, scene graph, and video support for cinematics. 
