@@ -1,0 +1,18 @@
+/**
+ * the purpose of this class is to extend functionality of the brick template with behavior and attributes
+ * of a ground brick
+ */
+
+package model.brick;
+
+import java.awt.image.BufferedImage;
+
+public class GroundBrick extends Brick{
+
+    public GroundBrick(double x, double y, BufferedImage style){
+        super(x, y, style);
+        setBreakable(false);
+        setEmpty(true);
+    }
+
+}

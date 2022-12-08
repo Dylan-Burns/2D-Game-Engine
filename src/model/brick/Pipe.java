@@ -1,0 +1,17 @@
+/**
+ * the purpose of this class is to create a pipe object that can be rendered into the game map
+ */
+
+package model.brick;
+
+import java.awt.image.BufferedImage;
+
+public class Pipe extends Brick{
+
+    public Pipe(double x, double y, BufferedImage style){
+        super(x, y, style);
+        setBreakable(false);
+        setEmpty(true);
+        setDimension(96, 96);
+    }
+}
