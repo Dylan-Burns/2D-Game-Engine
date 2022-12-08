@@ -97,21 +97,18 @@ public class SoundManager {
     }
 
     public void playSuperMushroom() {
-
         Clip clip = getClip(loadAudio("superMushroom"));
         clip.start();
-
     }
 
     public void playMarioDies() {
-
         Clip clip = getClip(loadAudio("marioDies"));
         clip.start();
-
     }
 
     public void playFireFlower() {
-
+        Clip clip = getClip(loadAudio("powerUp"));
+        clip.start();
     }
 
     public void playTimeWarning() {

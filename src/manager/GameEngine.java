@@ -192,6 +192,7 @@ public class GameEngine implements Runnable {
 
     public void receiveInput(ButtonAction input) {
 
+
         if (gameStatus == GameStatus.START_SCREEN) {
             setStartScreenSelection(input);
         }

@@ -3,10 +3,6 @@
  */
 
 package view;
-
-import java.net.MalformedURLException;
-import java.net.URL;
-
 public enum StartScreenSelection {
     START_GAME(0),
     VIEW_HELP(1),
@@ -25,7 +21,7 @@ public enum StartScreenSelection {
             default -> { return null; }
         }
     }
-    int count = 0;
+//    int count = 0;
     public StartScreenSelection select(boolean toUp) {
         int selection;
 
@@ -37,9 +33,9 @@ public enum StartScreenSelection {
                 case 3 -> selection = 0;
 
             }
-            System.out.println("line: " + selection);
-            count++;
-            System.out.println(count);
+//            System.out.println("line: " + selection);
+//            count++;
+//            System.out.println(count);
 
 
             return getSelection(selection);
