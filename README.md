@@ -129,7 +129,7 @@ When the code is compiled and ready, you can package your application in a Java 
 
 3. To the right of the Main Class field, click  and select the main class in the dialog that opens (for example, HelloWorld (com.example.helloworld)).
 
-IntelliJ IDEA creates the artifact configuration and shows its settings in the right-hand part of the Project Structure dialog.
+  IntelliJ IDEA creates the artifact configuration and shows its settings in the right-hand part of the Project Structure dialog.
 
 4. Apply the changes and close the dialog.
 
