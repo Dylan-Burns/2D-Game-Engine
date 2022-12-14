@@ -37,7 +37,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#run">Run</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -45,15 +44,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!--
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif">
-</p>
--->
 
 <img width="1267" alt="Screenshot 2022-12-08 at 2 02 03 PM" src="https://user-images.githubusercontent.com/65887526/206576705-723843ee-ac9f-461a-a7ca-861b087e3bae.png">
-
-
 
 This Project was programmed using Java for the purposes of the CSC 413 Term Project (Fall 2022). The intent was to create a 2D game that was both functional and intuitive to play. I believe this goal was achieved through a multifaceted approach involving object Oriented Analysis and Design principles accompanied by proper research and an eagerness to bring the game to fruition.
 
@@ -81,8 +73,6 @@ It is important to note that all of these concepts were implemented with the int
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
 - Java version: openjdk-19
@@ -93,17 +83,29 @@ It is important to note that all of these concepts were implemented with the int
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
-
-
-
 ## Getting Started
+
+Game Controls
+Action
+Key
+Move Left
+LEFT
+Move Right
+RIGHT
+JUMP
+UP
+Shoot Fireballs
+F
+Select item on Main Menu
+ENTER
+Go back on Main Menu
+ESC
+Pause / Resume in Game
+ESC
 
 - If you have the JavaLauncher.app on your device, you can run the .jar as follows: Right Click .jar -> Open with -> JavaLauncher.app(default).
 Otherwise proceed to the steps below to build and run the project in Intellij.
-
 
 ### Prerequisites
 
@@ -119,7 +121,6 @@ This is an example of how to list things you need to use the software and how to
 
 When the code is compiled and ready, you can package your application in a Java archive (JAR) to share it with other developers. A built Java archive is called an artifact.
 
-
 #### Create an artifact configuration for the JAR﻿
 
 1. From the main menu, select **File | Project Structure ⌘;** and click **Artifacts**.
@@ -134,7 +135,6 @@ When the code is compiled and ready, you can package your application in a Java 
 <p align="center">
   <img width="550" height="300" src="https://user-images.githubusercontent.com/65887526/207480030-311925b9-5c77-415f-938e-e6033e7fb40d.gif">
 </p>
-
 
 #### Build the JAR artifact﻿
 
@@ -168,7 +168,6 @@ When the code is compiled and ready, you can package your application in a Java 
 
 <p align="center">
   <img width="550" height="300" src="https://user-images.githubusercontent.com/65887526/207481530-0ef477ee-4c08-4457-bc5f-48cfcefa2729.gif">
-
 </p>
 
 4. In the Path to JAR field, click  and specify the path to the JAR file on your computer.
@@ -182,10 +181,6 @@ When the code is compiled and ready, you can package your application in a Java 
 - Run configurations allow you to define how you want to run your application, with which arguments and options. You can have multiple run configurations for the same application, each with its own settings.
 
 - After completing the steps above you are ready to Run the Game using Intellij.
-
-<!-- ROADMAP -->
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -203,7 +198,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- CONTACT -->
 ## Contact
 
@@ -213,10 +207,5 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ACKNOWLEDGMENTS -->!
 
-## Acknowledgments
-
-- to be updated...
