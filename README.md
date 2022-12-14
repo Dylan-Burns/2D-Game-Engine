@@ -48,7 +48,7 @@
 ## About The Project
 <!--
 <p align="center">
-  <img width="300" height="200" src="https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif">
+  <img width="100" height="70" src="https://user-images.githubusercontent.com/65887526/195723019-51cb84d4-f142-4bf2-ac02-0f82b1954e5c.gif">
 </p>
 -->
 
