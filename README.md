@@ -150,7 +150,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Dylan Burns | [Email](dburns6@sfsu.edu) | [LinkedIn](www.linkedin.com/in/dylan-burns-)
+- Dylan Burns
+- [Email](dburns6@sfsu.edu)
+- [LinkedIn](www.linkedin.com/in/dylan-burns-)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
