@@ -71,8 +71,6 @@ It is important to note that all of these concepts were implemented with the int
 
 **Super Mario Bros** is played on a 2D grid using the x-z axis (left, right, up, down). The goal of the game is to reach the flag and the right-most end of the map, all the while dipping, diving and dodging from Goomba, Koopa Troopa, and gaps in the ground. The user can hit bricks revealing prizes (Fire Flower, One-up mushroom, Magic mushroom) or coins. The main User Interface allows the user to select 3 different options(Start Game, Help, About). Once a map has been selected there is a User Interface in the top of the screen notifying you of your health status, points, coins, and time count.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 - Java version: openjdk-19
@@ -191,8 +189,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Reques
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
