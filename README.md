@@ -61,7 +61,7 @@ The main concept of the game I designed was heavily based on the Classic Super M
 
 The development of Super Mario bros can be broken down into 5 main components: The Game Engine, Game Objects, Game Object Managers, I/O handlers, and the Game Map. Aside from the main components, we also have to manage the window in which the game is played, manage sound and animation, check collisions and notify the appropriate managers to identify and handle those collision, and lastly ensure we render all these components onto the screen in response to the multivariate interactions in the game.
 
-It is important to note that all of these concepts implemented with the intention of following best coding practices for Object Oriented Software Design:
+It is important to note that all of these concepts were implemented with the intention of following best coding practices for Object Oriented Software Design:
 
 - **Cohesion** - Classes describe single entities, and all class operations fit together to support an object with a predefined purpose. Entities too large for a single class are broken down into smaller subcomponents – each with their own responsibility.
 
