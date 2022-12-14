@@ -86,23 +86,15 @@ It is important to note that all of these concepts were implemented with the int
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Game Controls
-Action
-Key
-Move Left
-LEFT
-Move Right
-RIGHT
-JUMP
-UP
-Shoot Fireballs
-F
-Select item on Main Menu
-ENTER
-Go back on Main Menu
-ESC
-Pause / Resume in Game
-ESC
+### Game Controls
+|       Action        |          Key         |
+|:-------------------:|----------------------|
+|      Move Left      |         LEFT         |
+|      Move Right     |         RIGHT        |
+|        Jump         |          UP          |
+|   Shoot Fireballs   |           F          |
+| Select in Main Menu |          ESC         |
+| Pause/Resume in Game|          ESC         |
 
 - If you have the JavaLauncher.app on your device, you can run the .jar as follows: Right Click .jar -> Open with -> JavaLauncher.app(default).
 Otherwise proceed to the steps below to build and run the project in Intellij.
