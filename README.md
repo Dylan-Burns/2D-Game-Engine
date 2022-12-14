@@ -123,18 +123,29 @@ When the code is compiled and ready, you can package your application in a Java 
 
 #### Create an artifact configuration for the JAR﻿
 
-1. From the main menu, select File | Project Structure ⌘; and click Artifacts.
+1. From the main menu, select **File | Project Structure ⌘;** and click **Artifacts**.
 
-2. Click + , point to JAR, and select From modules with dependencies.
+2. Click **+** , point to **JAR**, and select **From modules with dependencies**.
 
-3. To the right of the Main Class field, click  and select the main class in the dialog that opens (for example, HelloWorld (com.example.helloworld)). IntelliJ IDEA creates the artifact configuration and shows its settings in the right-hand part of the Project Structure dialog.
+3. To the right of the **Main Class** field, click  and select the main class in the dialog that opens (for example, **HelloWorld (com.example.helloworld)**). IntelliJ IDEA creates the artifact configuration and shows its settings in the right-hand part of the **Project Structure** dialog.
 
 4. Apply the changes and close the dialog.
 
 <p align="center">
-  <img width="800" height="600" src="https://user-images.githubusercontent.com/65887526/207480030-311925b9-5c77-415f-938e-e6033e7fb40d.gif">
+  <img src="https://user-images.githubusercontent.com/65887526/207480030-311925b9-5c77-415f-938e-e6033e7fb40d.gif">
 </p>
 
+
+#### Build the JAR artifact﻿
+
+1. From the main menu, select **Build | Build Artifacts**.
+
+2. Point to the created **.jar (HelloWorld:jar)** and select **Build**. If you now look at the **out/artifacts** folder, you'll find your **.jar** file there.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/65887526/207480783-6e36e27d-c03c-4a75-9086-a26b0b3eeda5.png">
+
+</p>
 
 <!-- USAGE EXAMPLES -->
 
