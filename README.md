@@ -154,7 +154,7 @@ When the code is compiled and ready, you can package your application in a Java 
 
 1. Press ⇧ ⌘ A, find and run the Edit Configurations action.
 
-2. In the Run/Debug Configurations dialog, click ➕ and select JAR Application.
+2. In the Run/Debug Configurations dialog, click **+** and select JAR Application.
 
 3. Add a name for the new configuration.
 
@@ -164,7 +164,7 @@ When the code is compiled and ready, you can package your application in a Java 
 
 4. In the Path to JAR field, click  and specify the path to the JAR file on your computer.
 
-5. Under Before launch, click ➕, select Build Artifacts in the dialog that opens.
+5. Under Before launch, click  **+**, select Build Artifacts in the dialog that opens.
     - Doing this means that the JAR is built automatically every time you execute the run configuration.
 <p align="center">
   <img width="550" height="300" src="https://user-images.githubusercontent.com/65887526/207482126-947bec8d-08e1-4be8-824a-9e4c13491c4c.gif">
