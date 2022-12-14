@@ -116,7 +116,27 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-- to be updated...
+#### Package an application into a JAR﻿
+
+When the code is compiled and ready, you can package your application in a Java archive (JAR) to share it with other developers. A built Java archive is called an artifact.
+
+
+#### Create an artifact configuration for the JAR﻿
+
+1. From the main menu, select File | Project Structure ⌘; and click Artifacts.
+
+2. Click + , point to JAR, and select From modules with dependencies.
+
+3. To the right of the Main Class field, click  and select the main class in the dialog that opens (for example, HelloWorld (com.example.helloworld)).
+
+IntelliJ IDEA creates the artifact configuration and shows its settings in the right-hand part of the Project Structure dialog.
+
+4. Apply the changes and close the dialog.
+
+<p align="center">
+  <img width="800" height="600" src="https://user-images.githubusercontent.com/65887526/207480030-311925b9-5c77-415f-938e-e6033e7fb40d.gif">
+</p>
+
 
 <!-- USAGE EXAMPLES -->
 
