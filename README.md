@@ -157,7 +157,29 @@ When the code is compiled and ready, you can package your application in a Java 
 
 ## Run
 
-- to be updated...
+- To run a Java application packaged in a JAR, IntelliJ IDEA allows you to create a dedicated run configuration.
+
+### Create a run configuration﻿
+
+1. Press ⇧ ⌘ A, find and run the Edit Configurations action.
+
+2. In the Run/Debug Configurations dialog, click ➕ and select JAR Application.
+
+3. Add a name for the new configuration.
+
+<p align="center">
+  <img width="550" height="300" src="https://user-images.githubusercontent.com/65887526/207481530-0ef477ee-4c08-4457-bc5f-48cfcefa2729.gif">
+
+</p>
+
+4. In the Path to JAR field, click  and specify the path to the JAR file on your computer.
+
+5. Under Before launch, click ➕, select Build Artifacts in the dialog that opens.
+
+<p align="center">
+  <img width="550" height="300" src="https://resources.jetbrains.com/help/img/idea/2022.3/run-config-ending.mp4">
+
+</p>
 
 <!-- ROADMAP -->
 
@@ -197,7 +219,8 @@ Don't forget to give the project a star! Thanks again!
 
 
 
-<!-- ACKNOWLEDGMENTS -->
+<!-- ACKNOWLEDGMENTS -->!
+
 ## Acknowledgments
 
 - to be updated...
