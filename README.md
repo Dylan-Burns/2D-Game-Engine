@@ -98,14 +98,14 @@ It is important to note that all of these concepts were implemented with the int
 
 - If you have the JavaLauncher.app on your device, you can run the .jar as follows: Right Click .jar -> Open with -> JavaLauncher.app(default).
 Otherwise proceed to the steps below to build and run the project in Intellij.
-
+<!-- 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g 
-  ```
+  ``` -->
 
 ### Installation
 
