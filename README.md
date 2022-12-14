@@ -178,9 +178,8 @@ When the code is compiled and ready, you can package your application in a Java 
     - Doing this means that the JAR is built automatically every time you execute the run configuration.
 <p align="center">
   <img width="550" height="300" src="https://user-images.githubusercontent.com/65887526/207482126-947bec8d-08e1-4be8-824a-9e4c13491c4c.gif">
-
-
 </p>
+    - Run configurations allow you to define how you want to run your application, with which arguments and options. You can have multiple run configurations for the same application, each with its own settings.
 
 <!-- ROADMAP -->
 
