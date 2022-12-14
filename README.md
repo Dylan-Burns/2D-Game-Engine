@@ -152,7 +152,7 @@ When the code is compiled and ready, you can package your application in a Java 
 
 ### Create a run configuration﻿
 
-1. Press ⇧ ⌘ A, find and run the Edit Configurations action.
+1. Press **⇧ ⌘ A**, find and run the Edit Configurations action.
 
 2. In the Run/Debug Configurations dialog, click **+** and select JAR Application.
 
