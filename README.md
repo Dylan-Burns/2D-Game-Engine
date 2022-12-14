@@ -103,21 +103,22 @@ It is important to note that all of these concepts implemented with the intentio
 This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
-  npm install npm@latest -g
+<!--   npm install npm@latest -g --> to be updated...
   ```
 
 ### Installation
 
-
+- to be updated...
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage
 
+- to be updated...
 
 ## Run
 
-
+- to be updated...
 
 <!-- ROADMAP -->
 
@@ -144,6 +145,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
+- to be updated...
 
 <!-- CONTACT -->
 ## Contact
@@ -157,3 +159,4 @@ Dylan Burns | [Email](dburns6@sfsu.edu) | [LinkedIn](www.linkedin.com/in/dylan-b
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+- to be updated...
