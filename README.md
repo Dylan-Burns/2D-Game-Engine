@@ -86,8 +86,12 @@ It is important to note that all of these concepts implemented with the intentio
 
 ### Built With
 
-- Java: openjdk-19
+- Java version: openjdk-19
 - IDE: Intellij 2022.2.3 (Ultimate Edition)
+- Resources:
+  - [Super Mario Bros Reference Manual](https://themushroomkingdom.net/smb_breakdown.shtml)
+  - [Map Editor](https://www.mapeditor.org)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
