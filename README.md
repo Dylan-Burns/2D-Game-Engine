@@ -36,7 +36,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#run">Run</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -204,12 +203,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- LICENSE -->
-## License
-
-- to be updated...
 
 <!-- CONTACT -->
 ## Contact
