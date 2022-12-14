@@ -86,7 +86,7 @@ It is important to note that all of these concepts implemented with the intentio
 
 ### Built With
 
-- Java Version - openjdk-19
+- Java: openjdk-19
 - IDE: Intellij 2022.2.3 (Ultimate Edition)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
