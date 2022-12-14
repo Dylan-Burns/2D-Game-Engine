@@ -142,6 +142,8 @@ When the code is compiled and ready, you can package your application in a Java 
 
 </p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- USAGE EXAMPLES -->
 
 ## Usage
