@@ -36,7 +36,6 @@
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#run">Run</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -114,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 
 
-## To Run
+## Run
 
 
 
