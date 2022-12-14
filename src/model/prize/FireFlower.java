@@ -1,3 +1,7 @@
+/**
+ * the purpose of this class is to provide the behaviors and attributes of a fire flower game object
+ */
+
 package model.prize;
 
 import manager.GameEngine;

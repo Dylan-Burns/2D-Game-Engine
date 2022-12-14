@@ -69,7 +69,7 @@ class MapCreator {
 
     public void validateMap(BufferedImage mapImage) {
         if (mapImage == null) {
-            System.out.println("Given path is invalid...");
+            System.out.println("Path is invalid...");
         }
     }
 

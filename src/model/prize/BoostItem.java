@@ -1,3 +1,8 @@
+/**
+ * the purpose of this class is to provide base functionality to the various power-ups that inherit
+ * boost item behaviors
+ */
+
 package model.prize;
 
 import manager.GameEngine;

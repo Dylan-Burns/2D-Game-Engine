@@ -1,3 +1,7 @@
+/**
+ * the purpose of this class is to provide the behaviors and attributes of a coin game object
+ */
+
 package model.prize;
 
 import manager.GameEngine;

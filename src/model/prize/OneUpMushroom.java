@@ -1,3 +1,7 @@
+/**
+ * the purpose of this class is to provide the behaviors and attributes of a one-up mushroom game object
+ */
+
 package model.prize;
 
 import manager.GameEngine;

@@ -1,3 +1,8 @@
+/**
+ * the purpose of this class is to provide base functionality to game objects that are considered
+ * to have a has-a relationship to prizes
+ */
+
 package model.prize;
 
 import manager.GameEngine;
