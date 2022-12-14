@@ -133,7 +133,7 @@ When the code is compiled and ready, you can package your application in a Java 
 4. Apply the changes and close the dialog.
 
 <p align="center">
-  <img width="600" height="400" src="https://user-images.githubusercontent.com/65887526/207480030-311925b9-5c77-415f-938e-e6033e7fb40d.gif">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/65887526/207480030-311925b9-5c77-415f-938e-e6033e7fb40d.gif">
 </p>
 
 
@@ -145,7 +145,7 @@ When the code is compiled and ready, you can package your application in a Java 
   - If you now look at the **out/artifacts** folder, you'll find your **.jar** file there.
 
 <p align="center">
-  <img width="600" height="400" src="https://user-images.githubusercontent.com/65887526/207480783-6e36e27d-c03c-4a75-9086-a26b0b3eeda5.png">
+  <img width="600" height="300" src="https://user-images.githubusercontent.com/65887526/207480783-6e36e27d-c03c-4a75-9086-a26b0b3eeda5.png">
 
 </p>
 
