@@ -70,7 +70,7 @@ It is important to note that all of these concepts implemented with the intentio
 - **Cohesion** - Classes describe single entities, and all class operations fit together to support an object with a predefined purpose. Entities too large for a single class are broken down into smaller subcomponents – each with their own responsibility.
 
 - **Consistency** - The code structure (for the most part) follows the standard Java style and naming conventions: 
-- (-  descriptive names for classes, data fields, and methods)
+- - descriptive names for classes, data fields, and methods
 - - Class structure from top to bottom (imports, class header, data fields, constructors, and methods)
 - - Proper use of access modifiers to grant or restrict access
 - - Singletons for objects that require individuality (i.e. Game Engine)
