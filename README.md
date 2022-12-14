@@ -94,7 +94,7 @@ It is important to note that all of these concepts implemented with the intentio
 <!-- GETTING STARTED -->
 
 
-<!--
+
 ## Getting Started
 
 ### Prerequisites
