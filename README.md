@@ -175,9 +175,10 @@ When the code is compiled and ready, you can package your application in a Java 
 4. In the Path to JAR field, click  and specify the path to the JAR file on your computer.
 
 5. Under Before launch, click ➕, select Build Artifacts in the dialog that opens.
-
+    - Doing this means that the JAR is built automatically every time you execute the run configuration.
 <p align="center">
-  <img width="550" height="300" src="https://resources.jetbrains.com/help/img/idea/2022.3/run-config-ending.mp4">
+  <img width="550" height="300" src="https://user-images.githubusercontent.com/65887526/207482126-947bec8d-08e1-4be8-824a-9e4c13491c4c.gif">
+
 
 </p>
 
