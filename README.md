@@ -29,6 +29,29 @@
 ## About The Project
 
 <img width="1267" alt="Screenshot 2022-12-08 at 2 02 03 PM" src="https://user-images.githubusercontent.com/65887526/206576705-723843ee-ac9f-461a-a7ca-861b087e3bae.png">
+**Objective**: The objective of the Super Mario Bros Game Development project is to recreate the classic Super Mario Bros game leveraging modern software engineering principles. This educational tool facilitates understanding in game design and practical application of object-oriented programming.
+
+**Features**:
+- **2D Platform Gameplay**: Faithfully reproduces the mechanics of the original Super Mario Bros including player movement, jumping, and collision handling.
+- **Interactive Game Objects**: Features various game objects such as enemies, power-ups, and obstacles, each with distinct behaviors and interactions.
+- **Dynamic Game Engine**: A robust engine that manages game loops, rendering, and object interactions, ensuring smooth gameplay and accurate physics.
+- **Modular Architecture**: Designed for easy maintenance and scalability, the architecture ensures a clear separation of concerns.
+- **Customizable Levels**: Incorporates a map system allowing for creation and modification of levels using an external editor.
+
+**Technologies Used**:
+- **Java (openjdk-19)**: Offers portability, extensive libraries, and strong community support.
+- **IntelliJ IDEA (Ultimate Edition 2022.2.3)**: Utilized for its powerful development environment with advanced coding assistance and debugging tools.
+- **External Resources**:
+  - [Super Mario Bros Reference Manual](https://themushroomkingdom.net/smb_breakdown.shtml) for accurate recreation of game features.
+  - [Map Editor](https://www.mapeditor.org) for designing and implementing game levels.
+
+**Development Principles**:
+- Adheres to object-oriented design principles such as encapsulation, inheritance, and polymorphism, creating a flexible and reusable codebase.
+- Utilizes design patterns and best practices for enhanced code readability, maintainability, and performance.
+
+**Project Impact**:
+This project serves as a practical case study in complex game development, providing insights into both the technical aspects of game programming and the creative elements of game design. Ideal for educational purposes, it offers a platform for exploring advanced programming concepts and game development strategies.
+
 
 ### Detailed Interworkings and Relationships Between Key Components
 
