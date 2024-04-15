@@ -1,3 +1,8 @@
+
+
+
+
+<!-- ABOUT THE PROJECT -->
 # Super Mario Bros
 
 <!-- TABLE OF CONTENTS -->
@@ -22,11 +27,6 @@
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
 <img width="1267" alt="Screenshot 2022-12-08 at 2 02 03 PM" src="https://user-images.githubusercontent.com/65887526/206576705-723843ee-ac9f-461a-a7ca-861b087e3bae.png">
 
