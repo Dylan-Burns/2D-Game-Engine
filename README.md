@@ -29,6 +29,7 @@
 ## About The Project
 
 <img width="1267" alt="Screenshot 2022-12-08 at 2 02 03 PM" src="https://user-images.githubusercontent.com/65887526/206576705-723843ee-ac9f-461a-a7ca-861b087e3bae.png">
+
 **Objective**: The objective of the Super Mario Bros Game Development project is to recreate the classic Super Mario Bros game leveraging modern software engineering principles. This educational tool facilitates understanding in game design and practical application of object-oriented programming.
 
 **Features**:
@@ -53,9 +54,9 @@
 This project serves as a practical case study in complex game development, providing insights into both the technical aspects of game programming and the creative elements of game design. Ideal for educational purposes, it offers a platform for exploring advanced programming concepts and game development strategies.
 
 
-### Detailed Interworkings and Relationships Between Key Components
+## Key Components
 
-#### Game Engine
+### Game Engine
 **Function**: The Game Engine orchestrates the core game mechanics, including the main game loop which updates game logic and renders graphics in response to player interactions and game rules.
 
 **Relationships**:
@@ -64,7 +65,7 @@ This project serves as a practical case study in complex game development, provi
 - **With Game Object Managers**: Utilizes these managers to dynamically create, modify, or remove game objects as dictated by gameplay needs and player actions.
 - **With Game Map**: Interacts with the Game Map to correctly place game objects and enforce game rules related to environmental constraints.
 
-#### Game Objects
+### Game Objects
 **Function**: Represents all interactive entities in the game, each equipped with properties like position and behaviors like move or interact.
 
 **Relationships**:
@@ -73,7 +74,7 @@ This project serves as a practical case study in complex game development, provi
 - **With I/O Handlers**: Respond directly to player inputs received via I/O handlers, affecting behavior (e.g., moving or jumping).
 - **With Game Map**: Engage with static elements of the map, such as colliding with obstacles or navigating terrain.
 
-#### Game Object Managers
+### Game Object Managers
 **Function**: Specialized systems that manage specific groups of game objects, responsible for their instantiation, destruction, and state management.
 
 **Relationships**:
@@ -81,14 +82,14 @@ This project serves as a practical case study in complex game development, provi
 - **With Game Objects**: Oversee the lifecycle of game objects, from creation to removal based on game dynamics.
 - **With Game Map**: Use map data to strategically place or remove objects in alignment with game progression.
 
-#### I/O Handlers
+### I/O Handlers
 **Function**: Manage all player interactions with the game through input devices (like keyboards and mice) and facilitate the output of game state changes to the display.
 
 **Relationships**:
 - **With Game Engine**: Forward player inputs to the game engine, influencing game state adjustments.
 - **With Game Objects**: Directly affect game objects through player commands, triggering specific actions like movements and abilities.
 
-#### Game Map
+### Game Map
 **Function**: Defines the layout and environmental boundaries of the game world, incorporating static elements like terrain, platforms, and scenery.
 
 **Relationships**:
